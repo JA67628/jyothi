@@ -1,0 +1,6 @@
+projectKey=olx-login-service
+serverUrl=http://localhost:9000
+serverVersion=8.9.8.54436
+dashboardUrl=http://localhost:9000/dashboard?id=olx-login-service
+ceTaskId=AYE9x_hEttxFWaHec6aT
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AYE9x_hEttxFWaHec6aT
